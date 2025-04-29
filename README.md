@@ -35,7 +35,7 @@ Advanced calculus topics and mathematical problem-solving.
   - Polar coordinates worksheets
   - Trigonometric substitution guides
 
-### Data Structures (DS)
+### Discrete   Structures (DS)
 Fundamentals of data organization and manipulation.
 
 **Progress:**
@@ -82,6 +82,23 @@ Statistical analysis methods and applications.
 2. **Short Notes**: Each subject has a "Short_notes" folder where you can add condensed summaries for quick review.
 3. **Prioritization**: Focus on materials in the "Currently doing" folders first, then move on to "Not touched" materials.
 4. **Contribution**: Feel free to add more materials or improve organization as needed.
+
+## Contribute Your Materials!
+
+This repository is meant to be a collaborative resource for all students. If you have useful study materials, please consider contributing:
+
+1. **Share Your Notes**: Add your own study notes, summaries, or cheat sheets
+2. **Past Papers**: Upload any past papers, CATs, or practice exams you have
+3. **Helpful Resources**: Links to useful videos, websites, or additional reading
+4. **Study Guides**: Your own guides or techniques that helped you understand difficult concepts
+
+To contribute:
+- Place materials in the appropriate subject folder
+- Make sure to organize according to the existing structure (Completed/Currently doing/Not touched)
+- Feel free to create new subject folders if needed
+- Consider adding a brief description of your contributed materials
+
+Let's build a comprehensive resource together that benefits everyone in the course!
 
 ## Last Updated
 April 29, 2025
